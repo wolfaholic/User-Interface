@@ -64,6 +64,53 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
-nav {
-	display: block-inline;
+body {
+	box-sizing: border-box;
+	margin: auto;
+	padding-top: 60px;
+	width: 60%;
+}
+.navbar {
+	box-sizing: boader-box;
+	
+}
+
+.navbar a {
+	text-decoration: none;
+	color: #afafaf;
+	margin: 100px 50px;
+}
+
+.logo {
+	padding: 10px 30px 10px 10px;
+}
+
+h1 {
+	font-size: 76px;
+	margin: 0;
+	padding: 30px 10px;
+}
+
+.header-img {
+	float: right;
+}
+
+button {
+	
+}
+
+.section-one {
+
+}
+
+.section-two {
+	
+}
+
+.contact-info {
+
+}
+
+footer {
+
 }
