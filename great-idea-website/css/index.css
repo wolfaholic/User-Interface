@@ -109,9 +109,58 @@ button {
 	
 }
 
-
-
-
 hr {
 	width: 90%
+}
+
+h2 {
+	font-size: 35px;
+}
+
+p {
+	font-size: 18px;
+}
+
+.section-one {
+	margin: 5%;
+	text-align: left;
+
+}
+
+div .features {
+	display: inline-block;
+	width: 48%;
+	padding: 0px 20px 30px;
+	margin: auto;
+}
+
+
+.middle-img {
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 80%;
+
+}
+
+.section-two {
+	margin: 5%;
+	text-align: left;
+}
+
+div .services {
+	margin: auto;
+	display: inline-block;
+	width: 33%;
+	padding: 0px 20px 30px
+}
+
+.contact-info {
+	text-align: left;
+	padding: 10px 20px 30px
+
+}
+
+footer {
+	text-align: center;
 }
