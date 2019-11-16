@@ -65,6 +65,12 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+/* #wrapper {
+	min-width: 1024px;
+	width: 1024px;
+	margin: 0 auto;
+} */
+
 .container {
 	box-sizing: border-box;
 	margin: auto;
